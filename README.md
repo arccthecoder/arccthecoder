@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on simple-payment-system<br>🌱 I’m currently learning Golang<br>💬 Feel free to ask me about anything<br>⚡ Fun fact: I like Coca-Cola
+🔭 I’m currently working on a simple-payment-system<br>🌱 I’m currently learning Golang<br>💬 Feel free to ask me about anything<br>⚡ Fun fact: I like Coca-Cola
 
 
 ## 🌐 Socials:
